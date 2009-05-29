@@ -1,0 +1,9 @@
+[Gedit Plugin]
+Loader=python
+Module=terminal
+IAge=2
+Name=Terminal
+Description=Opens a terminal in the Bottom Pane
+Authors=Michal Pawlowski
+Copyright=Michal Pawlowski <misza222@gmail.com>
+Website=http://wiki.github.com/misza222/gedit-plugin-terminal
